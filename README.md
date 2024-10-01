@@ -14,5 +14,5 @@ A React-based movie app that allows users to search for movies via the OMDB API,
 
 - **React**: Frontend framework for building UI components.
 - **OMDB API**: Movie data API used for fetching movie details.
-- **CSS**: For styling the UI.
+- **CSS**: For styling the UI's.
 - **JavaScript (ES6+)**: Core language features like `useState` and `useEffect`.
